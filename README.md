@@ -10,4 +10,5 @@
 
 ## My Certificates 
 [Tensorflow Developer Certificate](https://www.credential.net/26da15d5-e0c7-412b-971f-e202c4c4a9f7)   
-[Coursera Course Certificate](https://coursera.org/share/89a2e64d1b665c3713cf50f9908d1aef)
+[Coursera 'DeepLearning.AI TensorFlow Developer'](https://coursera.org/share/89a2e64d1b665c3713cf50f9908d1aef)   
+[Coursera 'Deep Learning Specialization'](https://www.coursera.org/account/accomplishments/specialization/22UXX3MDA596)
