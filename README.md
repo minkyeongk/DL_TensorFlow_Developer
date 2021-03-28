@@ -1,2 +1,2 @@
 # DL_TensorFlow_Developer
-Study note of TensorFlow_Developer course 
+Study Note for TensorFlow Developer Certificate
